@@ -1,4 +1,5 @@
-const stations = [["Big Bear Donair", 10, "restaurant"], ["Bright Lights Elementary", 50, "school"], ["Moose Mountain Community Center", 45, "community center"]]; let suitableStations = [];
+const stations = [["Big Bear Donair", 10, "restaurant"], ["Bright Lights Elementary", 50, "school"], ["Moose Mountain Community Center", 45, "community center"]];
+let suitableStations = [];
 
 const chooseStations = function (stations) {
   for (let i = 0; i <= stations.length-1; i++) {
