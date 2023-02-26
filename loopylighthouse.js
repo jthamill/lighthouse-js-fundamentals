@@ -7,7 +7,7 @@
 // By print, we are referring to console.log.
 
 
-
+//nice job
 
 for (let n = 100; n <=200; n++) {
   if (n % 3 === 0 && n % 4 ===0) {
